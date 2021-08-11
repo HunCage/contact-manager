@@ -42,5 +42,26 @@ li {
   border-radius: 10px;
 }
 form {
+  text-align: center;
   margin: 10px;
+}
+
+input {
+  font-size: 20px;
+  width: 33%;
+  padding: 8px;
+  border-radius: 5px 0 0 5px;
+
+}
+
+input, button {
+  padding: 8px;
+}
+
+button {
+  width: 12%;
+  border-radius: 0 5px 5px 0;
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgba(29, 192, 29, 0.815);
 }
